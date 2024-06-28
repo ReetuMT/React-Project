@@ -1,0 +1,107 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+table{
+  margin: 50px;
+}
+/* body{
+  height: 100vh;
+  background: #f4f4f4;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.main_todo{
+  background-color: rgb(46, 43, 43);
+  width: 22rem;
+  padding: 2rem;
+  margin-top: 4rem;
+  border-radius: 1rem;
+  align-items: center;
+  box-shadow: -17px -22px 40px 20px rgba(0,0,0,0.1);
+}
+.inputdata,.button-add{
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 5px;
+  outline: none;
+}
+.inputdata{
+  width: 220px;
+  color: rgb(223, 191, 191);
+  font-weight: bold;
+  background-color:rgba(0, 0, 0, 0.692);
+}
+.button-add{
+  background-color: orange;
+  font-weight: bold;
+}
+li{
+  /* margin: 5px; */
+  /* padding: 5px; */
+  /* list-style: none;
+  text-align: left;
+  color: whitesmoke;
+}
+.Input{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}  */
+/* .icons{
+  display: flex;
+  height: 20px;
+  transform: translate(-14px, 10px);
+}
+
+.mainlist{
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid white;
+  border-radius: 5px;
+} */
+/* .mainlist {
+  padding: 5px;
+}
+
+.list-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 6px;
+  margin-bottom:5px;
+  border: 1px solid #ccc;
+  border-radius:10px;
+}
+
+.icons {
+  display: flex;
+  gap: 10px;
+}
+
+.icon {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+}
+
+.complete-icon path {
+  fill: green;
+}
+
+.edit-icon path {
+  fill: #74C0FC;
+}
+
+.delete-icon path {
+  fill: #e10552;
+} */
+body{
+  margin:10px;
+}
+table{
+  text-align: center;
+}

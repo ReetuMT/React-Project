@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(26, 24, 24);
+    color: white;
+}
+
+.main_div {
+    width: 100%;
+    padding: 10px;
+    background-color: #6983aa;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: center;
+}
+
+
+input {
+    text-align: left;
+    height: 30px;
+    top: 10px;
+    width: 100%;
+    border: none;
+    background: transparent;
+    font-size: 20px;
+    font-weight: 500;
+    border-bottom: 1px solid rgb(210, 166, 210);
+    outline: none;
+}
+
+
+
+.card {
+    width: 30%;
+    margin-right: 10px;
+    display: flex;
+    flex-direction: row;
+    padding: 30px;
+}
+
+table,td {
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+
+}
+.card{
+    border: 2px solid gray;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: left;
+    height: 200px;
+    border-radius: 20px;
+    padding: 10px;
+    gap: 10px;
+
+}
+select{
+    border:none,
+
+}
+.buttons{
+    width: 20%;
+    margin-left: 150px;
+    padding: 5px;
+    border-radius: 10px;
+}
+.add{
+    border: 1px sostlid white;
+    text-transform: uppercase;
+    background: transparent;
+    border-radius: 10px;
+    color: white;
+    font-weight: 600;
+    padding: 10px;
+}
